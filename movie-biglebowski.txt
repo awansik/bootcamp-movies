@@ -1,0 +1,12 @@
+Movie Name  : Big Lebowski
+Release Year: 1998
+Genre       : Comedy
+Rating 	    : R
+Director    : Joel & Ethan Coen
+Writer      : Joel & Ethan Coen
+
+Cast 
++ Jeff Bridges 
++ John Goodman
++ Steve Buscemi 
++ Julianne Moore

@@ -1,0 +1,12 @@
+Movie Name  : The Dark Knight
+Release Year: 2008
+Genre       : Action
+Rating      : PG-13
+Director    : Christopher Nolan
+Writer      : Jonathan & Christopher Nolan
+
+Cast
++ Christian Bale
++ Heath Ledger
++ Michael Caine
++ Gary Oldman
